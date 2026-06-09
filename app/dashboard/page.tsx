@@ -29,7 +29,7 @@ export default function DashboardPage() {
       {/* Header */}
       <div className="border-b border-white/10 p-6">
         <h1 className="text-3xl font-bold">
-          Welcome Praneet 👋
+          Welcome User 👋
         </h1>
 
         <p className="text-gray-400 mt-2">
